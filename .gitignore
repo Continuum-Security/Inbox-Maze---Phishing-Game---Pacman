@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output (deployed separately via gh-pages)
+dist/
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local
+.env.production
+
+# Editor
+.vscode/
+*.swp
